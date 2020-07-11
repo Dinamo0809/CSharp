@@ -1,0 +1,13 @@
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\obj\Debug\netcoreapp3.1\Detector de Semanas.csprojAssemblyReference.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\obj\Debug\netcoreapp3.1\Detector de Semanas.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\obj\Debug\netcoreapp3.1\Detector de Semanas.AssemblyInfo.cs
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\obj\Debug\netcoreapp3.1\Detector de Semanas.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\bin\Debug\netcoreapp3.1\Detector de Semanas.exe
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\bin\Debug\netcoreapp3.1\Detector de Semanas.deps.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\bin\Debug\netcoreapp3.1\Detector de Semanas.runtimeconfig.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\bin\Debug\netcoreapp3.1\Detector de Semanas.runtimeconfig.dev.json
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\bin\Debug\netcoreapp3.1\Detector de Semanas.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\bin\Debug\netcoreapp3.1\Detector de Semanas.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\obj\Debug\netcoreapp3.1\Detector de Semanas.dll
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\obj\Debug\netcoreapp3.1\Detector de Semanas.pdb
+C:\Users\agust\Desktop\Cosas Hechas Por Mi\Programs\C#\Detector de Semanas\obj\Debug\netcoreapp3.1\Detector de Semanas.genruntimeconfig.cache
