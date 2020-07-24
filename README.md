@@ -1,2 +1,2 @@
 # C-
-Programas simple hechos en C#.
+Variedad de programashechos en C#.
